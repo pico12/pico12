@@ -18,8 +18,5 @@ Emojis such as these below do make a readme file fun!
 ### 2. Images
 In the tasks we had to have screenshots such as this below
 
-
-<picture>
- <img src="(https://github.com/user-attachments/assets/3bcca13d-0c6b-4dd5-9124-9323c73f470f)">
-</picture>
+![Screenshot 2024-12-23 at 18 09 40](https://github.com/user-attachments/assets/7561d7c4-cd1c-4960-b552-534f0ffecf73)
 
